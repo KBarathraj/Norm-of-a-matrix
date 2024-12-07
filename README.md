@@ -33,19 +33,13 @@ print(c)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
 ![image](https://github.com/user-attachments/assets/793db7ee-aef5-483d-9027-e3189c9807f5)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
 ![image](https://github.com/user-attachments/assets/321ed039-1e76-46ab-b606-90cdc3b7e58e)
 
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
 ![image](https://github.com/user-attachments/assets/7d2d77ff-bcac-4f6e-855c-52e0bd132992)
 
 
